@@ -9,7 +9,9 @@ This project aims to analyze [brief description of what your project analyzes or
 We utilize several datasets from the ACS 2022, focusing on specific regions. Here are the datasets and their descriptions:
 
 •	Age and Sex (B01002): Provides information on age and sex distribution for the region 16000US0617750. 
+
 •	Race (B02001): Details the racial demographics for the region 16000US0657526.
+
 •	Migration (B07013): Indicates migration patterns for the region 16000US0617750.
 •	Education (B15003): Shows educational attainment for the region 16000US0657526.
 •	Income (B19113): Presents household income information for the region 16000US0657526.
