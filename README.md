@@ -1,4 +1,4 @@
-# Project Title
+## Understanding Orange County
 
 ## Description
 
@@ -13,8 +13,11 @@ We utilize several datasets from the ACS 2022, focusing on specific regions. Her
 •	Race (B02001): Details the racial demographics for the region 16000US0657526.
 
 •	Migration (B07013): Indicates migration patterns for the region 16000US0617750.
+
 •	Education (B15003): Shows educational attainment for the region 16000US0657526.
+
 •	Income (B19113): Presents household income information for the region 16000US0657526.
+
 •	Employment Status (B23025): Provides employment statistics for the region 16000US0657526.
 
 Download these datasets before running the code on Colab
