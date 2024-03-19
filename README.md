@@ -2,7 +2,7 @@
 
 ## Description
 
-This project aims to analyze [brief description of what your project analyzes or achieves, e.g., demographic and economic trends] using datasets from the American Community Survey (ACS) 2022 and a detailed analysis in a Google Colab notebook. The goal is to provide insights into [mention the key insights your project provides, e.g., age distribution, migration patterns].
+This project aims to analyze the driving factors of income within Orange County communities using datasets from the American Community Survey (ACS) 2022 and detailed analysis in a Google Colab notebook. The goal is to provide insights into age distribution, racial composition, migration patterns, education levels, income statistics, employment status, and housing values, focusing on regions.
 
 ## Data Sources
 
