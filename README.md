@@ -21,7 +21,7 @@ We utilize several datasets from the ACS 2022, focusing on specific regions. Her
 •	Employment Status (B23025): Provides employment statistics for the region 16000US0657526.
 
 
-Download and upload these datasets before running the code on Colab. The total number of datasets should be 8 ( B02001, B07013, B15003, B19113, B24031, B25077, B01002, B23025). Click on the folder Icon and download button for each dataset. Once you download them, upload them onto google colab 
+Download and upload these datasets before running the code on Colab. The total number of datasets should be 8 ( B02001, B07013, B15003, B19113, B24031, B25077, B01002, B23025). Click on the folder Icon and download button for each dataset. Once you download them, upload them onto google colab. If you run into problems running the datasets, copy their path and paste it into the read me then rereun the code. 
 
 These datasets are analyzed in a comprehensive Google Colab notebook:
 - [Open Google Colab Notebook](https://colab.research.google.com/drive/1Krc_Sd1U78A0pqt_htZ4EMlCNAanQNMz?usp=sharing)
